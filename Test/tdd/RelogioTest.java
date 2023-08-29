@@ -1,4 +1,4 @@
-package TestPackage;
+package tdd;
 
 import static org.junit.jupiter.api.Assertions.*;
 
